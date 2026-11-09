@@ -1,0 +1,40 @@
+
+PYTHON WEEK 8 - TOOLKIT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+This tool allows users to add, subtract, multiply and divide two numbers.
+Concepts: Input, conditionals, arithmetic and f-strings.
+
+Tool 2: To-Do List
+This tool allows users to add, view and remove tasks.
+Concepts: Lists, loops, append(), pop() and conditionals.
+
+Tool 3: Number Guessing Game
+This tool allows users to guess a secret number and receive hints.
+Concepts: While loops, conditionals and f-strings.
+
+2. EXACT MENU TEXT
+
+========================================
+       WELCOME TO MY PYTHON TOOLKIT
+========================================
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+Enter your choice (1-4):
+
+3. PROGRAM CONCEPTS
+
+- While loop to repeat the main menu.
+- If, elif and else to select tools.
+- Lists to store changing tasks.
+- Functions to organize the program.
+- F-strings for friendly messages.
+- Try and except to handle invalid input.
